@@ -1,5 +1,5 @@
 <?php
-namespace Feather2\BladeDebugM2O;
+namespace Blade\DebugM2O;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\View\FileViewFinder;
