@@ -1,0 +1,14 @@
+{
+    "name": "lothar/debug-m2o",
+    "description": null,
+    "authors": [
+        {
+            "name": "zhanghao",
+            "email": "jsyczhanghao@sina.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Lothar\\DebugM2O\\": "src/"}
+    }
+}
