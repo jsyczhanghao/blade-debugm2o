@@ -1,14 +1,16 @@
 {
-    "name": "lothar/debug-m2o",
-    "description": null,
+    "name": "feather2/blade-debugm2o",
+    "description": "laravel provider，用于blade多前端对单后端合作模式时的调试",
     "authors": [
         {
             "name": "zhanghao",
             "email": "jsyczhanghao@sina.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
-        "psr-4": {"Lothar\\DebugM2O\\": "src/"}
+        "psr-4": {"Feather2\\BladeDebugM2O\\": "src/"}
     }
 }
